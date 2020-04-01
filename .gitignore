@@ -1,3 +1,6 @@
+*.inp
+*.out
+
 # Prerequisites
 *.d
 
