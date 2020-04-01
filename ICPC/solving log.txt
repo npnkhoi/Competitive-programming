@@ -1,0 +1,5 @@
+A:	max triangle in polygon
+	triangle area
+	two pointers
+B: divide candies for minimum diff
+C:    

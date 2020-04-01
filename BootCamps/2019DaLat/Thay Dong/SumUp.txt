@@ -1,0 +1,31 @@
+Tận dụng đặc tính bài toán
+Đưa ra nhận xét để đơn giản hóa QHD, dùng QHD để bù đắp các thiếu sót của quá trình xây dựng lời giải
+- Cân bằng giữa "xây dựng lời giải" và "dùng các tham số quản lí ràng buộc"
+
+* Searching
+	* Không gian nhỏ
+	CITY: không gian siêu nhỏ => tìm kiếm mù (mặc dù một đích)
+	INVSORT: một đích => tìm kiếm có định hướng
+	MQUEEN: một vài đích => liệt kê cấu hình - tìm kiếm có định hướng
+	* Không gian lớn
+	DANCE: nhận xét + QHD
+	ADVENT: nhận xét + QHD
+	PERGAME: nhận xét + duyệt
+
+	KFIB: tìm kiếm kiểu chia căn
+	WORDGAME: kinh nghiệm QHD xử lí đối xứng
+
+* Counting
+BTRI: đếm izi
+GRTRAVEL: đếm gián tiếp
+PATH: đếm gián tiếp
+
+* Misc
+LLCS: [dạng bài tìm min của các max] 
+	lấy max từng trường hợp
+	đặt cận + DP đảo nhãn (best giảm dần)
+ODS: tư tưởng đệ quy
+PALMATRIX: nothing
+TAB: nothing
+TILES: nhân Ấn Độ
+TRIANGLE: constant
