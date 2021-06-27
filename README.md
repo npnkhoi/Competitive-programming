@@ -1,6 +1,6 @@
 # Competitive-programming
 
-Since 2016, I have been actively participating in competitive programming contest. Some of them are:
+Since 2016, I have been actively participating in competitive programming contests. Some of them are:
 
 | Online judge | My account                              |
 | ------------ | --------------------------------------- |
