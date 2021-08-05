@@ -10,7 +10,7 @@ class Main {
 
         for (int neighbor : adj.get(vertex)) {
             if (!visited.get(neighbor)) {
-                dfs(neighbor)
+                dfs(neighbor);
             }
         }
     }

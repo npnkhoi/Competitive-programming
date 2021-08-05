@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-class Main {
+class reachableroads {
     private static ArrayList<ArrayList<Integer>> adj;
     private static ArrayList<Boolean> visited;
 
