@@ -8,7 +8,7 @@ import java.io.PrintWriter;
 import java.io.OutputStream;
 
 class Solution {
-    
+
     static int[] up = new int[1000000];
 
     static void union(int a, int b) {
@@ -18,7 +18,7 @@ class Solution {
             a = b;
             b = tmp;
         }
-        up[a] --;
+        up[a] --; 
         up[b] = a; // Actually merge b into a
     }
 

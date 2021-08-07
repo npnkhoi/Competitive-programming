@@ -100,7 +100,7 @@ class Solution {
         int n = io.getInt();
         int l = io.getInt();
         
-        // Initialize up[]
+        // Initialize
         for (int i = 1; i <= l; ++ i) {
             up[i] = -1;
             avail[i] = 1;
